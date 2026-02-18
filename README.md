@@ -1,2 +1,2 @@
 # VideogameProject_Remington
-print("hello")
+print("goodbye")
